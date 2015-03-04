@@ -5,7 +5,7 @@ A little playful content navigation effect that uses the draggable Elastic Stack
 
 [Article on Codrops](http://tympanus.net/codrops/?p=23444)
 
-[Demo](http://tympanus.net/Development/TrampolineEffect/)
+[Demo](http://tympanus.net/Tutorials/PlayfulTrampolineEffect/)
 
 Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
 
